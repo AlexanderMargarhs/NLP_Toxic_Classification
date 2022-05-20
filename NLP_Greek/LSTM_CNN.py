@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+from sklearn import metrics
 from matplotlib import pyplot as plt
 from keras.models import Model, load_model
 from keras.preprocessing.text import Tokenizer
@@ -99,5 +100,14 @@ if __name__ == "__main__":
     model = load_model(best_model)
     print('**Predicting on test set**')
     prediction = model.predict(X_te, batch_size=16, verbose=1)
+    y = submission.subtask_a
+    fpr, tpr, _ = metrics.roc_curve(y, prediction)
+
+    # create ROC curve
+    plt.plot(fpr, tpr)
+    plt.ylabel('True Positive Rate')
+    plt.xlabel('False Positive Rate')
+    plt.savefig("Images/LSTM_1_ROC_GR")
+
     submission[["subtask_a"]] = prediction
     submission.to_csv('Predictions_GR/submission15.csv', index=False)

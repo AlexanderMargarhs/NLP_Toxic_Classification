@@ -10,6 +10,9 @@ from keras.layers import Bidirectional, Conv1D, GlobalMaxPooling1D, GlobalAverag
 
 
 # Read word vectors into a dictionary
+from sklearn import metrics
+
+
 def get_coefficiency(Word, *arr):
     return Word, np.asarray(arr, dtype='float32')
 
@@ -98,5 +101,15 @@ if __name__ == "__main__":
     model = load_model(best_model)
     print('**Predicting on test set**')
     prediction = model.predict(X_te, batch_size=16, verbose=1)
+
+    y = submission.subtask_a
+    fpr, tpr, _ = metrics.roc_curve(y, prediction)
+
+    # create ROC curve
+    plt.plot(fpr, tpr)
+    plt.ylabel('True Positive Rate')
+    plt.xlabel('False Positive Rate')
+    plt.savefig("Images/LSTM_2_ROC_GR")
+
     submission[["subtask_a"]] = prediction
     submission.to_csv('Predictions_GR/submission16.csv', index=False)
