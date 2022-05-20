@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+from sklearn import metrics
 from matplotlib import pyplot as plt
 from keras.models import Model, load_model
 from keras.preprocessing.text import Tokenizer
@@ -21,6 +22,7 @@ if __name__ == "__main__":
     # Save training and testing Data
     TRAIN_DATA = 'Data/train.csv'
     TEST_DATA = 'Data/test.csv'
+    LABELS_DATA = 'Data/test_labels.csv'
     SAMPLE_SUB = 'Data/sample_submission.csv'
 
     embed_size = 300  # Size of word vector, given by our pre-trained vectors
@@ -30,6 +32,7 @@ if __name__ == "__main__":
     # Load Data into pandas
     train = pd.read_csv(TRAIN_DATA, )
     test = pd.read_csv(TEST_DATA, )
+    labels = pd.read_csv(LABELS_DATA, )
     submission = pd.read_csv(SAMPLE_SUB, )
 
     # Replace missing values in training and test set
@@ -98,5 +101,16 @@ if __name__ == "__main__":
     model = load_model(best_model)
     print('**Predicting on test set**')
     prediction = model.predict(X_te, batch_size=16, verbose=1)
+
+    y = labels.toxic
+
+    fpr, tpr, _ = metrics.roc_curve(y, prediction[:, 1])
+
+    # create ROC curve
+    plt.plot(fpr, tpr)
+    plt.ylabel('True Positive Rate')
+    plt.xlabel('False Positive Rate')
+    plt.savefig("Images/LSTM_1_ROC")
+
     submission[["toxic", "severe_toxic", "obscene", "threat", "insult", "identity_hate"]] = prediction
     submission.to_csv('Predictions/submission15.csv', index=False)
