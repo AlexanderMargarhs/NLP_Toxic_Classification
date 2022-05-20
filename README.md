@@ -4,6 +4,7 @@ This is a project about Toxic Comment Classification using different methods bot
 To Run the Code you will need to download these datasets and add them to the Data and Data_GR directories.
 
 glove840b300d -> https://www.kaggle.com/datasets/takuok/glove840b300dtxt
+
 glove6B50d -> https://www.kaggle.com/datasets/watts2/glove6b50dtxt
 
 Additionally, you will need to create the Models and Predictions directories in the NLP_English directory. 
