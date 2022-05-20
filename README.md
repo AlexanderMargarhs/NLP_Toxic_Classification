@@ -10,7 +10,7 @@ glove6B50d -> https://www.kaggle.com/datasets/watts2/glove6b50dtxt
 Additionally, you will need to create the Models and Predictions directories in the NLP_English directory. 
 You will have to do the same for the NLP_Greek directory, but the name will be Models_GR and Predictions_GR.
 
-# Running the code
+# Running the Python Code
 1. Run gpu.py
 2. Run csv_format.py
 3. Run data.py
@@ -23,3 +23,8 @@ You will have to do the same for the NLP_Greek directory, but the name will be M
 
 # Packages
 Please see requirements.txt
+
+# Running the BERT code
+
+To run the BERT code you just open Google colab and set Runtime Type to GPU. I would not recommend
+running it on your machine since it relies a lot on GPU, CPU, and RAM. 
