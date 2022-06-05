@@ -1,0 +1,275 @@
+id,comment_text,toxic
+fec30de33a2f29a3,"Or, I could scan the articles  and place them online in a directory  on my webserver....what is the community's pleasure?",0
+fec6961acc20d82e,"I have just followed from your edit exchange on the article Blu-Ray Disc to find the exchange above.  Sadly, you appear to know little about the subject, and to be fair, it has become confusing because much of the terminology has become abused.
+
+First, European Blu-Ray discs are not produced in 24p format.   That is almost exclusively the preserve of the American regions.  Secondly, the Blu-Ray format does not support the proper 1080 progressive high definition formats (1080/50p and 1080/60p (and I include the 59.95p in that).  This is because the data rate is not fast enough for these formats.  The European sourced discs that state 1080p on the packaging are discs produced from film originated material and is one of the abuses of the term progressive.  The term progressive strictly defines a video format where the lines of video information are recorded in strict numerical order, 
+
+1 - 2 - 3 - 4 - 5 ... 1078 - 1079 -1080.  
+
+Alternatively, there is the interlaced format which displays the odd lines ony first (odd field) and then follows them by the even lines (even field). (You probably know this already).
+
+1 - 3 - 5 - 7 ... 1077 - 1079 - 2 - 4 - 6 ... 1078 - 1080
+
+They are actually stored in the digital video frame the other way around due to the digital video format's origins in the NTSC world.  In true video source material, the even field displays a time slice that is 20 milliseconds later than the odd field and the two together give a comlete video frame.  This is also largely true in the Americas, except the even field precedes the odd field by ~16.6 miliiseconds.
+
+There is a largish group of enthusiasts (if that's the right word) who have become somewhat anally retentive over the progressive video formats and who have convinced themselves that progressive is the only way to go.  The reality is that any improvement in the visual perception of the video is marginal at best and certainly not worth the doubling of the required digital data to support it.  But for them, everything has to be progressive.  I shall coin the word 'progressivists' for this discussion.
+
+When film originated material is transferred to video in Europe, the film is run slightly fast by 4% which allows one film frame to occupy both the the odd and even fields of the video frame (known as 2:2 pulldown).  Thus the even field displays a time slice that is 0 milliseconds later than the odd field.  In order to satisfy the progressivists, the Blu-Ray producers state that such material is in 1080p format, but using something called a 'Progressive Segmented Frame' technique (though they don't mention that last bit on the box).  That is: that it is progressive video, but the odd lines have been recorded together and then they are followed by the even lines.  It is really interlaced video, but by the time the display device or the Blu-ray player has de-interlaced the video (it doesn't matter one jot where it actually happens), the result is perceptually indistinguishable from true 1080/25p video (assuming the deinterlacing algorithm works properly).  If watched on a CRT display then, of course, the video will be interlaced as there is no deinterlacing prior to display, but with that number of lines, no one is likely to notice (unless they sit inches away from the screen).  The description 1080p on the box is, technically at least, wrong but percetually the same as 1080/25p video.  The 4% speed up goes completely un-noticed especially these days when the sound is adjusted back to the original pitch - and obviously you hadn't noticed it yourself if you had convinced yourself that you were watching films at the original speed.
+
+Once we cross to the Americas, different problems occur.  Obviously, running the film at 30 frames per second is not an option, so instead, film is converted to video by storing the same film frame on 3 half video frames, followed by storing the next frame on 2 half video frames and then repeating 3 - 2 - 3 - 2.  Thus 4 film frames occupy 5 video frames (the technique is 3:2 pulldown - often wrongly called 2:3 pulldown).  Properly deinterlaced, such material is perfectly watchable and the viewer unlikely to feel anything is wrong.  But the progressivists have decided that it is not the way to watch film material and have even invented faults to justify a move to a progressive format.  I have even seen claims (obviously failing to understand the technique) that movement in the resultant video is uneven in that it jumps 50% further every other jump due to the 3 half fields.  
+
+The result was the 24p format.  The only problem with the 24p format is that if you try to watch it on a CRT display (and A CRT is still unbeatable for contrast and colour reproduction), the result will be unviewable to bad flicker - something that was known as long ag",0
+fecf1549a1c4013a,"Oh I was just wondering, I'm something of a fan myself.  You've made some pretty good articles; all the best.",0
+fed369534a846498,"""
+I guess I should fill you in with the whole generation controversy. Some of the editors here claimed that grouping consoles by generation is original research because groupings have been inconsistent from source to source. The whole thing can be seen here, although nothing new has been said for several months, now. ''''''[✆Talk] """,0
+fed9fcfd8505a0ad,", spent by private U.S. citizens",0
+fee07a2bd34e3435,"""
+
+ Replaceable fair use Image:CarolLombard.jpg 
+
+Thanks for uploading Image:CarolLombard.jpg. I noticed the 'image' page specifies that the image is being used under fair use, but its use in Wikipedia articles fails our first fair use criterion in that it illustrates a subject for which a freely licensed image could reasonably be found or created that provides substantially the same information. If you believe this image is not replaceable, please:
+
+ Go to the image description page and edit it to add , without deleting the original Replaceable fair use template.
+ On the image discussion page, write the reason why this image is not replaceable at all.
+
+Alternatively, you can also choose to replace the fair use image by finding a freely licensed image of its subject, requesting that the copyright holder release this (or a similar) image under a free license, or by taking a picture of it yourself.
+
+If you have uploaded other fair use media, consider checking that you have specified how these images fully satisfy our fair use criteria. You can find a list of 'image' pages you have edited by clicking on [ this link]. Note that even if you follow steps 1 and 2 above, fair use images which could be replaced by free-licensed alternatives will be deleted 2 days after this notification (7 days if not used in an article), per our Fair Use policy.  If you have any questions please ask them at the Media copyright questions page. Thank you.  """,0
+fee14f4a7d08abf0,"Hypercritical? On the 10th anniversary, and the first time you dare feature a list on mainpage?  No way.  It was supposed to be our chance to get it right, make it perfect.  Why not directly tell us a week in advance that this list was the one you'd be featuring for the anniversary to give us a chance to shine it up and correct all the issues?",0
+fee48b9796e01ea7,"Hi. Drop a note on the talk page of that article asking for it to be added. But, note that the article will likely be replaced by a redirect anyway.  (comment)",0
+fee7f29a7e10ce6f,"""
+
+""""The WWE Raw guest host initiative was introduced on June 15, 2009 by Donald Trump during his time as owner of the Raw franchise."""" This is Wikipedia all over. Listing stories as facts...Jesus Christ. Grow a brain, the first step might be to stop watching a product churned solely for children (not WWE, ALL PRO WRESTLING.86.128.14.112  """,0
+feebe635d6e273c6,"""
+
+ I've provided a citation that doesn't include Albert (or any other corps commander) in the list of principal commanders. In other words, unless you can provide a source that does, what you are doing constitutes Original Research and is not allowed. I'll remove Albert and replace the Prussian commanders per the source tomorrow to give you time to find a competing source. And remember to make it Reliable.
+ Don't bother replying unless you have a source to supply, because you're simply repeating yourself.  •T•C•E• """,0
+fef0bb192b832b3e,"""
+The problem is, 11 of the sources (and the most reliable ones) are all supporting one single sentence in the article. (talk) """,0
+fef142420a215b90,"FUCKING FAGGOT 
+
+LOLWAT.",1
+fef4cf7ba0012866,"""
+
+ our previous conversation 
+
+you fucking shit eating liberal, you make lady bird johnson shake on her tampon. I said fucking sorry for my little brother and you still had to fucking complain. My life is fucking shit. My mother is always yelling at me and my dad beats the shit out of me if I get fucking out of line. My brother's one outlet is wikipedia. He cried when he saw my father smacking me, and his tears clogged his mac book pro's keyboard. we had to go to fucking apple and get a new one, all out of my mom's pocket. then last night i wanted to take this hot pussy from connecticut out in my dad's new rolls-royce and he said fucking no. so you know what I fucking did? I fucking cut his pinky off and didnt snitch like a little bitch like you. I take lazy ass niggers like you and stomp you with my fat nazi heel. you should be FUCKING sorry you ever fucked with me or my dad (Steve Jobs). And if I find out your using Linux, I'll take pity on thee. Cause you're just too stupid to understand shit. i can see your fucking at some fucking computer and you think that you have some power on this fucking site. let me tell you something you little bitch. when i'm doing coke off strippers titties in da clubz, you can just edit some fucking wikipedia articles. i smoke a phat blunt every damn day, and you smoke your mom's fucking tea. So, in closing, as Shakespeare said in Sonnet ninety-four (I believe): """"things turn sourest by their deeds. Lillies that fester smell far worse than (fucking) weeds.""""
+fuck you and heil hitler.
+
+-n. jobs
+
+ps- if you ever fucking ban this ip again, there is going to be some serious shit thats gonna happen. i know a fucking guy.""",1
+fef6e74465707786,"""
+
+Response I am obviously very disappointed by this decision. The assertion that I did not read the article is highly misleading, not to mention offensive. I have been a Wikipedia editor for many, many years, and have followed the rules and regulations throughout these years. To suggest that I did not follow the regulations is complete bunkum. Using the evidence present in the article, I made a choice based on what I thought was a fairly obvious case - it STILL breaks our rules on blogs, recentism, notability, and bias. The """"keep"""" votes are from people who have an immense level of conflict of interest, and therefore skew the vote something rotten. I am very disappointed that this entire episode has been carried out at my expense, rather than at the article itself. This response will be copied to as many concerned editors in this matter.  wordsdeeds """,0
+fefb3cc85d4d74b2,"→ From WP:Third opinion: The inclusion of that section gives undue weight to a particular pre-Hungary period in this article, Hungary. Such material would be better placed at Hungarian prehistory or Pannonian Basin before the Hungarians, with  links to Great Moravia where appropriate. The current article is almost 200 kb long, and needs more concise summaries more than it needs additional sections. When deciding how much space and depth to devote to a particular aspect of a topic, it is important to take recourse to general sources and reflect their coverage. Beyond the reliable sources threshold, the trustworthiness of a particular source is less important for determining weight in the treatment of a topic than is its generality. As an outsider, I could see adding up to a few dozen words based on the lingering impact of toponyms and script.
+
+As a side note, please remember to stay focused on improving the article without recourse to personal attacks on other editors. As well, I remind you that whenever text is copied from one article to another, you must include this fact in your edit summary. - 2/0 (cont.)",0
+fefb76ff05ad111b,"I am not a martyr. I am a human, and humans make mistakes. I did too, many mistakes.",0
+feff13bcecca7ef3,"Categories 
+
+I have removed the Extreme Sport category, as most cavers do not consider their sport Extreme.  It is only some noncavers who think it might be.",0
+feff39ca71ba8160,"Hey Drmies, are you ok? I can't imagine what I must have said on that IP's page to get you so upset that you've decided to literally track my every edit. Isn't there anything better that you can do with your time instead of THIS? You know, like move away from your computer and go out, talk to people and form friendships in real life? You've said you have a family with a kid to take care of, but I now find that very hard to believe because I would assume you wouldn't have so much time for this nonsense if that were really the case.
+
+I seriously hope I haven't hurt your feelings that much to prevent you from performing your daily duties off the world wide web. I would feel badly if that were the case, which now seems it actually is. Call me vandal all you like, it doesn't matter to me. I wish you well. 125.39.16.85",0
+ff045f2933a49ba9,I too agree with your suggestion. Thanks for taking this on.,0
+ff0470dd5bc6631d,"""
+
+  Elton John has not sold less albums than Queen in the UK, he's had lower sales per album, but the total sales of his albums is the UK is more than Queen. Also the UK RNR Hall Of Fame would have nothing to gain, nothing to loose, by just taking ANY figure. Doesn't mean they checked it by looking at world charts, list of back catalogue sales, etc. Where in my text did I say I didn't like Queen?? Wheatear or not I like them, tolerate them or hate them has nothing to do with it, there is NO source that says """"Queen have world sales of 250 million"""". You can't take a bit from one and a bit from the other, you can only use one source. However my point stands, looking at global sales charts, and other sales lists, Queen have not sold 190 million albums, their best selling albums globally are Greatest Hits and Greatest Hits 2 which combined sold 35 million as of now, they havent sold another 155 million besides.""",0
+ff048122f1858cd5,"""         The quote:  """"Growth, Unity and Progress"""" provides a fitting description of this municipality at the start of a new century.""""  is CLEAR evidence of npov writing.  No one is resorting to childish rhetoric here except you.
+
+""",0
+ff097b5e81d45244,"""
+
+Re: """"See also: One-hitter (smoking)""""
+
+Please discuss the following edit sequence:  
+
+(cur | prev)  17:20, 8 July 2011 Mjpresson (talk | contribs) (10,343 bytes) (Tokerdesigner has resumed adding """"one-hitter"""" when not contextual)
+ 
+(cur | prev)  17:16, 8 July 2011 Tokerdesigner (talk | contribs) (10,367 bytes) (See also: One hitter; fix Categorization (to Cannabis smoking))
+
+What is """"not contextual"""" about helping readers seeking information about """"Cannabis smoking"""" find out about low-dosage utensils which can substitute for wasteful, unhealthy """"joint smoking""""?
+
+Note that the same editor who deletes the link to the """"One-hitter (smoking)"""" article has also deleted several pictures (of equipment other than cigarette papers!) from that article, deleted the Australian Department of Health warning against mixing with tobacco (in """"joints"""") from the """"Hashish"""" and """"Cannabis smoking"""" articles, and positioned a """"person smoking a joint"""" (cigarette advert) atop the """"Cannabis smoking"""" article.  Why?  """,0
+ff0c14043acdaf8e,"I'm gonna pull it then. If anyone disagrees with that, put it back and talk about it here. 66.206.186.59",0
+ff108e602f3336fb,"""
+
+I did some stuff in my . Seeing as I can't exactly romanize names, can you help me romanize Vampir's one? The kana is ブラッディ‧ドラクル‧ヴァンピール, her full title being Bloody Dracul Vampir in english.ichi """,0
+ff14739c8bd3f2e2,"How they achieved the speed? 
+
+Interesting mystery about 747SP. Hundreds of pages written about it, how they made it lighter, shorter, more powerful, etc. But nowhere they say what they did to increase the speed. It flew just 200 kph slower than the speed of sound. And it's a good thing. But neither Boeing themselves, nor any other manufacturer ever tried to repeat this feat. Why? With modern airliners being able to cover up to 19,000 km why nobody makes them faster? What was done to the airfoil in that regard? Does anyone know a source where this angle is covered?",0
+ff1af943d80886ba,"and using that to vandalize until it is about to be banned, then repeat the process.''",0
+ff1fd5721a58e8c7,"Apparently Palit is found to be worthy of mention by nvidia, amazon, and pcuniverse:
+http://www.nvidia.com/object/IO_20021017_4141.html
+http://www.amazon.com/tag/palit%20microsystems
+http://www.pcuniverse.com/Palit-Microsystems/bs/h/3158
+
+Anyone familiar with newegg knows that it is a top 10 internet retailer in terms of sales, putting it ahead of bestbuy.com, etc.  I believe it is the #2 electronics internet retailer, behind dell.com.  If your products are on newegg (and on the front page of their video card section), you deserve at least a small article on wikipedia.
+
+Unbelievably, eVGA is also marked for deletion: http://en.wikipedia.org/wiki/Talk:EVGA_(Company) ... even though eVGA is a VERY well-known maker of video cards and motherboards.  In the past few years, I'd assume they've sold $30-50 million in video cards annually... and yet people who know nothing about electronics mark it for deletion.
+
+If wikipedia doesn't want sub-10 million in sales corporations to be on it, then I guess Palit may not make the cut, but it seems to me that the notoriety of these companies is mostly called into question by people who don't know a single computer corporation other than Dell, Apple, IBM, and Gateway.",0
+ff2237cd799ca429,"""
+
+I would prefer Queen's College, Oxford to The Queen's College, Oxford, in the same way that University of Oxford is used rather than The University of Oxford, and it is shortened to """"Queen's"""" rather than """"The Queen's"""".   """,0
+ff273f32a5be41b7,"""
+This has nothing to do with elegant vs. drastic. I am talking about NOPV and factual accuracy. As for ambiguity and language, Itried tried but you did not like the term """"unequivocal"""".    """,0
+ff2c4badf9a753da,"If no defaultsort is set, the title of the article is the defaultsort. Which was my point. But year titled articles are better off without defaultsorting generally.",0
+ff2f5695bb9aa845,"How's this? It's a lot shorter, but it's more focussed on the settlement rather than the hall and is now properly sourced (bar the etymology). If you're ok with the changes, I can leave a copy of this conversation on the article's talk page.",0
+ff2fa11e471fb847,"Please view my video and pass it on to your friends and colleagues. The more viewers I get, will support my case in the court of public opinion and pressure the three involved companies, Chrysler, Compuware d/b/a Professional Services, and Combustion Components to settle my 11 year homelessness.
+
+Search: Corporate Blacklisted engineer
+
+   
+
+I worked as a Mechanical Design Engineer for almost 20 years collectively for the following companies; Pratt and Whitney, Williams International, Ford Motor Company, and as a contract engineer for Compuware d/b/a Professional Services at Chrysler Corporation in Auburn Hills, Mi. It is the latter two to which I am forging my complaint as they told prospective employers, my private investigator and my newspaper reporter, that I was not employed by them, thus blacklisting me, and preventing from all future employment.
+
+ 
+
+I believe that they did this to me because I found fault with one of Chrysler’s automotive designs that could have resulted in a safety issue, that they did not want to fix and it was easier and cheaper to get rid of me.
+
+ 
+
+I took my case all the way to the Supreme Court in Washington, DC and in Boston’s Federal court ….all courts denied me justice. A lawyer representing Chrysler offered me $1000 to settle the case about 2 years ago which I refused since I felt it was like a slap in the face compared to the injustice they have caused me.
+
+ 
+
+Your viewing of my video will greatly help to end my 11 yrs of homelessness by increasing public awareness of my case and consequently, will send Chrysler, Compuware and combustion components a direct message that I am not giving up and refuse to go quietly into the night.
+
+ 
+
+Thank you for your time and consideration,
+
+ 
+
+Bill Butler
+
+Read my story in progress at the following:
+
+Click on blog post!",0
+ff39a2895fc3b40e,YOU ARE A MISCHIEVIOUS PUBIC HAIR,1
+ff498c07261899cc,REDIRECT Talk:Bangkok Bank F.C.,0
+ff4b4ed67398affc,"I only mention it because the previous edit was also a reversion, so it might have been wiser to check the edit history first. It shows a string of reversions. I recommended the self revert because you have added back the contentious material, which is contrary to the established convention of discussion before addition that has been adopted in the Obama-related articles.",0
+ff4eb629bb10208f,"""
+You've got no call to start attacking me ad hominem. I know damned well how to use the history and talk pages. As for """"shoddy"""" research, I (like many others) consider the school's own style guide to be the final word on the issue. The school's publications are entirely consistent with this. Anyway, I'm through with this. You obviously care about this WAY more than anyone else, I'm sure others will come along and make this correction repeatedly until you back down, since the public style guide is probably what most people will consider the ultimate authority on this. Don't bother messaging me back, I don't care that much.   """,0
+ff584fbc543d0df6,"Agreed, besides debating it now won't repair destroyed reputation. It won't change that my bot was shut down and it certainly won't change my chances of ever getting the admin tools and being allowed to contribute to WP on par with my knowledge and abilities.",0
+ff5a346f56fb484a,"REDIRECT Talk:Harry Yates (footballer, born 1925)",0
+ff5b1d7af2c59bd7,HEY HOW ABOUT SHE PUTS OUT A NEW SINGLE AM I RIGHT OR AM I RIGHT?,0
+ff5e13378ca9d7a7,"Improv
+What is the name of the part where the violinist improvises? Lestrade",0
+ff60fe590399538b,"""
+
+The bot does keep track, and will not update the same page more often than once every six months.  You can make sure this doesn't happen again by adding  to the main page; if an infobox is present and does not have an image in the """"image"""" field, PhotoCatBot will assume that's the photo the article still needs, and will not add it to .  Thanks!    """,0
+ff65d85aebea05d0,"I certainly noticed you because of the poor edit at Stars Dance (where you formatted an enormous unsourced list of producers added to an album that had been created by another editor with a forged tracklist, an edit for which he has been warned). The edit for which you were blocked was less than nine hours old at the time you were blocked, and was nearly identical to the kinds of edits you were blocked for previously. That previous block was your warning. You don't get to make bad edits in blocks of four.—",0
+ff66383a2793fa14,"""
+
+Sorry I find that there's nothing """"honorable"""" about samurai ethics, it's largely blind loyalty and fanaticism, and lack any of the Judeo-Christian values such as compassion and mercy. Such are the values indoctrinated into Imperial Japanese soldiers when they slaughtered over 300,000 Chinese civillians in the Nanjing Massacre, tortured Allied POWs in prison camps such as Changi, launched suicide Kamikaze attacks against Allied ships etc. Not even the Germans, who had at least at some Judeo-Christian values left even under the Nazi regime, match the level of fanaticism and pure evil of Imperial Japan.60.242.159.224  
+
+""",0
+ff6de7a60ebf8ab0,( I really like this Icon where Can I get it ?),0
+ff6f6919e11cd5f4,"request for checkuser 
+
+Hi
+Got your name form checkusers list, I suspect following users to be involved in sockpuppetry and subsets of the following may be from same IP ,some of them  are heavily involved in edit warring and disputes over fully protected article Dawoodi Bohra and other Bohra articles and giving other admins a hard time. One of the user Araz5152 created a hoax article [Qutbi bohra] which had to be completely transformed by another reliable author. So do let me know about the investigation
+
+Mufaddalqn
+SamanthaPuckettIndo
+
+Markdrows
+Md iet
+Murtazajamali
+DistributorScientiae
+Araz5152",0
+ff7093e953e68d1e,"Ok I am sorry, but I have created some articles that you have improved, so I'm not all bad.",0
+ff739ca9d4a89652,"Wikipedia:Articles for deletion/Markus Kaarlonen 
+
+The article about Markus Kaarlonen was proposed for deletion due to the lack of reliable sources in his article. I have added several sources, but more are needed. Please contribute to the article by adding reliable sources, or at least let me know if there is a source I could use. Thanks. '''''' (talk)",0
+ff7464f7913986fc,"""
+What do you answer to this: """"Timoshenko was never “heroic”. He was just another New York cop going about his business, shot by a gun-toting crazy. (You seem to have a lot of those in your country.)"""" that the aussie sent me... Unfortunately nothing when he's spitting our our cherished country.  """,0
+ff74bb5fff05ac53,"]]
+Category:Musicians work group articles needing attention",0
+ff765c133935e1c5,"Labeling Season 2B? 
+
+How should this be done? Netflix's releases for May just came up, and the other 13 episodes of season 2 are listed as May 29th release... only they'll be released as Season 3.
+
+So do we label them as Season 3, as Netflix, an official distributor labels them as such, and simply label them as production codes 214-226, or do we label them as season 2, with an addendum stating Netflix released them as a third season?
+
+Obviously we have a few weeks, but figure getting a collective agreement on what to do now is better. 99.162.156.148",0
+ff76c8dcf1297d39,"Paleoconservatism 
+
+The external link you added to Paleoconservatism was highly inappropriate. Please do not continue using Wikipedia to advance your personal agenda, or you will be blocked (again) for disruption.",0
+ff7e4be50ce0a523,"Geocities 
+Exactly what policy does a site published by Geocities violate?  The article is well and professionally written as well as nicely-presented.  What's unreliable about it?  The fact that it was published on Geocities?  Plenty of good articles are published on Tripod.com or Hispavista.es and they're acceptable?  Why, because the user can invest on a domain name?  Because that's the only difference.",0
+ff7ec72ecc73f589,"""
+Thanks. It looks like Mr. Case is done for the day though??? Strange?? Wiki alf is never going to let me hear the end of this one D . I feel bad though. I vandalism rv count is extremely high(no matter which IP I choose to edit from) The longer I amblocked, the more V that gets through. I have over 20000 edits as an anonymous editor(after walking away from my old usernameI have no personal ambition for """"Wiki-gain"""" so I have no use for a username. I only strive for Wiki-quality I don't want to boast... but I am VERY good at spotting vandalism. And being blocked for doing what I do best... is certainly strange. Hopefully resolved soon.  """,0
+ff7ef80ee62bbcf6,Thank you Squiddy! (but I still think it will get reverted just because I'm a sceptic!).,0
+ff809396fa3e7c79,""".
+
+Growing kits do produce a large amount of mushrooms, dried or wet, and can contain high amounts of psilocybin.  As for your question concerning """"chocolates"""", that is merely a method of grounding up mushrooms and mixing them with any chocolate or brownie mix, and just like any thing else thats not regulated, some may not have any psilocybin, and some may""",0
+ff86b760b582b590,HOW was that a personal attack?! i said Roddi not Rodii.  I do hope there was no confusion there...get real people,0
+ff9898285f10161f,"Retiring 
+
+Since retiring from Wikipedia, I have been looking at my life as objectively as I can and it has become obvious that my time on Wikipedia demonstrated the serious flaws in my personality, and so I have deleted the contents of this page. I can only apologize to the countless people whom I have damaged, especially as I now realize I was acting out of a deep-seated feeling on inadequacy and a desire to be accepted by others. In hindsight it was obvious that I was simply a tragic little girl who wanted to make her mark on the world. I have grown since then, and realized my errors. Please forgive me.",0
+ff9ae4a64d2d5de1,"The table is fixed as well. Remember that these edits take some time, especially with table formatting, ruling sourcing, population totals etc. (this is one reason why I supported adding the remaining states to a table, it would make transfer so much easier).",0
+ff9e91b29b89c5fa,I find this block ridiculous and a kick in the teeth given the amount of work I am putting into here today. User:Boleyn was bullied away from wikipedia. So when she starts stalking me I have no right to be frustrated with her. Your WP:NPA policy on here is deranged.,0
+ffa33d3122b599d6,"Your absurd edits 
+
+Your absurd edits on great white shark was total vandalism and was very sexual. All you edit here is fucking bullshit like spam all over this useful encyclopedia so stop all your bullshit. The admins have you everywhere. The only choice for you is to stop this bullshit or else you'll be blocked permanently. User:Factual80man",1
+ffa95244f261527f,"maybe he's got better things to do than spend all day, every day on wikipedia? haha, it's been years now, get a life.  just a thought from a concerned wikipedian...",0
+ffad104337fe9891,"scrap that, it does meet criteria and its gone to deletion review  contribs/talk",0
+ffaed63c487a2b42,You could do worse.,0
+ffb268f37788a011,", 7 March 2011 (UTC)
+Are you also User:Bmattson?
+What is the webaddress for the discussion forum?   19:32",0
+ffb47123b2d82762,"""
+
+Hey listen don't you ever!!!! Delete my edits ever again I'm annoyed because the WWE 2K15 a few of the roster have been confirmed and your stupid ass deletes what I write. just stop!!!! Please STOP!!!! You don't work 2k or WWE games so stop deleting other peoples shit if I get it wrong or others get it wrong let them they will get the hang of it eventually but don't stick your most ass in their and I'm gonna delete the """"please do not insert the roster"""" shit how do you not have it if has been confirmed!!!!! God your stupid.""",1
+ffb7b4c3d3ae5842,"Thank you very, very much.  ·✆",0
+ffb93b0a0a1e78f9,Talkback: 15 September 2012,0
+ffb998f9749bd83e,"2005 (UTC)
+ 06:35, 31 Mar",0
+ffba5332d6b8fd14,i agree/ on another note lil wayne is a talentless man. If tupac was still alive lil wayne whould be broke. And he has the audacity to call himself the gratest rapper alive.,0
+ffbc2db4225258dd,"While about half the references are from BYU-I, the majority comes from the independent student paper Scroll, which probably is the most reliable source for information about the school.  Gag01001",0
+ffbcd64a71775e04,"Prague Spring 
+
+I think that Prague Spring deserves more than two sentences in this article.",0
+ffbd331a3aa269b9,"I see this as having been merged; undoing one side of a merge forks content in large blocks. See here and here where the article was merged. The prior merge notice indicated discussion, scant, at Talk:Creature type (Dungeons & Dragons) which I see you commented at.
+ Yes, I feel that most of the leaf-nodes are utterly non-notable; this is what lists are for (and those lists should largely consist of  unlinked critters). The D&D; 'verse has a near-endless number of named denizens and linking every one of them to a stub is absurd.
+ The Aberration (Dungeons & Dragons) page has not been deleted; rather than simply undoing the merge, you are free to review the old versions of the page in order to mine them for bits you wish to add to the Creature type (Dungeons & Dragons) page. It would be nice if you cited sources establishing notability for anything you wish to resurrect. Cheers,",0
+ffbdbb0483ed0841,and i'm going to keep posting the stuff u deleted until this fucking site closes down have fun u stupid ass bitch don't ever delete anything fuckin hore like i said before go to hell,1
+ffc2f409658571f1,"""
+
+How come when you download that MP3 it's titled """"odb""""? That's ODB's theme and that has been my point all along.  """,0
+ffc671f2acdd80e1,"I'll be on IRC, too, if you have a more specific request.",0
+ffc7bbb177c3c966,"It is my opinion that that happens to be off-topic. I do believe that I never claimed it is not a common criticism. Please avail yourself to my opinion provided and do not assume I am making this assertion. I would hope you would respect my opinion and discuss my opinion in a rational and civil way. I thank you for your time and would like to provide my services to you and your family for this simple request. Sincerely yours,",0
+ffca1e81aefc48ac,"Please stop removing content from Wikipedia; it is considered vandalism. If you want to experiment, please use the sandbox. Thank you.",0
+ffca8d71d71a3fae,"Image:Barack-obama-mother.jpg listed for deletion 
+An image or media file that you uploaded or altered, Image:Barack-obama-mother.jpg, has been listed at Wikipedia:Images and media for deletion. Please see the discussion to see why this is (you may have to search for the title of the image to find its entry), if you are interested in it not being deleted.",0
+ffcdcb71854f6d8a,"""Editing of article without Consensus & Removal of Cited Content without Discussion===
+I find it telling that neither of you had the courtesy to respond to my proposal and K3 went ahead to begin editing the article without any consensus being reached. Let the record note that I am now compelled to reciprocate your actions and make my suggested changes. JJ obviously lacks any serious knowledge in this area and was only here for circumventing 3RR, so there's no point answering his most recent underinformed questions. I'll focus on Kautilya3. If you were significantly acquainted with the topic, you would understand that the Kakatiyas were feudatories of the Eastern Chalukya dynasty.So the question of when the formal royal dynasty began is a natural question, not """"patent nonsense"""", and probably one of the reasons some previous editor changed the old date to """"Uncertain"""". 1053 was the date given for the first royal inscription based on the permanent grant of Hanumakonda (their original capital for your edification) as a fief to the Kakatiyas. I also suggest you both refresh your knowledge of WP:Civility, to improve the quality of your current and future discussions. If you don't know about an author, here's a hint, ask...politely..rather than first disrespectfully dismissing the author, then demanding his c.v. What's more, his book speaks for itself. Its the History and Culture of Andhra Pradesh (the old state which included the new state of Telangana). This is not some arcane ivory tower speculative paper, but a WP:RS. So if you want to change the date to 956CE, perfectly fine by me. The only difference is, I had the sense of responsibility to provide a citation. I suggest you do the same. 
+
+Let me repeat that I am perfectly fine with having a respectful dialogue. But as I've said before, it takes two hands to clap. Ball is in your court, gentlemen.   
+
+===""",0
+ffd2e85b07b3c7e4,"""
+No he did not, read it again (I would have thought everyone here could recite it by heart by now) it says """"Are we truly to believe the arbcom are so thankful for that, and Jimbo was ever so taken with her"""".  The arbcom having read the evidence are now voting to thank her - so it is a very valid question. Kelly always implied she was a friend of Jimbo's.  Good for her, that must be very pleasant for them both.  However, I can't imagine Jimbo was particularly impressed by that blog either.  If you actually read the blog, not just what was pasted to wiki, there is a lot of information on her views in other areas. I was also commenting on those. I don't imagine Jimbo is much impressed by me or many others concerned with whole rotten case either, but it's all a bit late for those concerns now. Now this is actually Bishonen's page, so my further views will be posted on my own page, if I decide to post them that is, because I too am heartily sick of this whole case, it is just a pity reference to that blog was ever permitted as evidence, especially if people do not in fact want to discuss it or here concerned parties views on it.  """,0
+ffd72e9766c09c97,"""
+ Auto guides and the motoring press are not good sources for an encyclopedia article about """"luxury vehicle"""". This is because automakers feed the press a lot of BS (Boastful Superlatives) who then work hard to write articles adding even more BS to describe their products. The press earns credits from the hands that feed them. Add to this the fact that potential and actual purchasers of luxury vehicles have an insatiable  appetite  for this type of BS. Classifying a particular vehicle as """"luxury"""" is also designed to easily make it superior to other vehicles even if the differences are superficial. Using self-serving BS in marketing claims is a very, very old invention that helps sell products, as well as fuel the fan base with """"bragging"""" rights to which vehicles are """"luxury"""". On the other hand, it is more difficult for most marketers to be humble and genuine. That is why an encyclopedia article has to avoid falling into the trap of using traditional marketing superlatives and hyperbole. —   """,0
+ffe029a7c79dc7fe,"""
+please identify what part of BLP applies because BLP clearly states that we must follow NPOV which says that we must present content in relation to the manner the subject is covered in reliable academic sources. In this case there has not been any substantial mainstream academic sources provided which is not critical of views and claims that  Chopra makes.  TRPoD aka The Red Pen of Doom 
+""",0
+ffe897e7f7182c90,Catalan independentism is the social movement involving more people in Catalonia. Votes in the referendum at Barcelona were more than the ones received by political parties that are leading the council (PSC and CIU) . 20% of votes of the total census voting in favour of a referendum that is forbidden by spanish courts and that has no legal effects is highly relevant.,0
+ffe8b9316245be30,"The numbers in parentheses are the additional decimal points which have been measured but lie outside the accuracy of the measurement process. This means the values in the parentheses eg (15) could be used for the purpose of calculation, but any value that results from such a calculation would not be more accurate than the number of significant figures if those in parentheses were not considered. In other words, the values in parentheses are there to help avoid rounding errors if you’re trying to work to the limit of accuracy of the gas constant. I agree that this is not commonly known, and only confuses the issue. I would recommend removing it.",0
+ffe987279560d7ff,""":::::And for the second time of asking, when your view completely contradicts the coverage in reliable sources, why should anyone care what you feel? You can't even give a consistent argument - is the opening only supposed to mention significant aspects, or the """"most significant"""" ones?   
+
+""",0
+ffea4adeee384e90,"You should be ashamed of yourself 
+
+That is a horrible thing you put on my talk page.  128.61.19.93",0
+ffee36eab5c267c9,"Spitzer 
+
+Umm, theres no actual article for prostitution ring.  - Crunch Captain.",0
+fff125370e4aaaf3,And it looks like it was actually you who put on the speedy to have the first version deleted now that I look at it.,0
+fff46fc426af1f9a,"""
+And ... I really don't think you understand.  I came here and my idea was bad right away.  What kind of community goes """"you have bad ideas"""" go away, instead of helping rewrite them.   """,0

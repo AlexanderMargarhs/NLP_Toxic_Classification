@@ -1,0 +1,8 @@
+Download these files and add them to the Data and Data_GR folders.
+
+glove840b300d -> https://www.kaggle.com/datasets/takuok/glove840b300dtxt
+
+glove6B50d -> https://www.kaggle.com/datasets/watts2/glove6b50dtxt
+
+You also have to create Images folder for both Greek and English and Models
+for the English and Models_GR for the Greek sets.
